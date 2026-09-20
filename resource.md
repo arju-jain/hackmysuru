@@ -1,5 +1,3 @@
----
-
 ## 1. Team Details
 
 | Field | Value |
