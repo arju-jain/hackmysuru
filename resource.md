@@ -10,10 +10,10 @@
 
 | # | Member | Program & Year | GitHub Handle | Primary Role |
 |---|---|---|---|---|
-| 1 | `<PRASANN>` (Lead) | `<BCA 2ND YEAR>` | `@<handle>` | `<backend>` |
-| 2 | `<KOMAL>` | `<BCA 2ND YEAR>` | `@<handle>` | `<BACKEND>` |
-| 3 | `<HONNESHA>` | `<BCA 2ND YEAR>` | `@<handle>` | `<DATABASE>` |
-| 4 | `<ARJUNU>` | `<BCA 2ND YEAR>` | `@<handle>` | `<AIML>` |
+| 1 | `<PRASANN>` (Lead) | `<BCA 2ND YEAR>` | `@<prasann-g>` | `<backend>` |
+| 2 | `<KOMAL>` | `<BCA 2ND YEAR>` | `@<handle>` | `<NULL>` |
+| 3 | `<HONNESHA>` | `<BCA 2ND YEAR>` | `@<Honnesha-bit>` | `<DATABASE>` |
+| 4 | `<ARJUNU>` | `<BCA 2ND YEAR>` | `@<arjun-jain>` | `<AIML>` |
 
 ---
 
