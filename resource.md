@@ -45,7 +45,7 @@
 |---|---|---|---|---|
 | 1 | [Pitch + Code Walkthrough Video](./resource-templates/video-guide.md) (≤ 10 min, MP4) | `<https://drive.google.com/file/d/.../view>` | `<HM26-7CE3>_video.mp4` | `<a1b2c3d4e5f60718>` |
 | 2 | [Decision Log](./resource-templates/decision-log-template.md) (1 page, PDF) | `<https://drive.google.com/file/d/.../view>` | `<HM26-7CE3>_decision-log.pdf` | `<...>` |
-| 3 | [Presentation](./resource-templates/presentation-template.md) (≤ 10 slides, PDF) | `<https://drive.google.com/file/d/.../view>` | `<HM26-7CE3>_presentation.pdf` | `<...>` |
+| 3 | [Presentation](./resource-templates/presentation-template.md) (≤ 10 slides, PDF) | `<https://drive.google.com/?utm_source=chatgpt.com>` | `<HM26-7CE3>_presentation.pdf` | `<...>` |
 
 <!--
 Get the hash:
