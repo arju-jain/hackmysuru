@@ -97,10 +97,10 @@ git clone <repo-url> && cd <repo>
 
 | Name | Role | GitHub |
 |---|---|---|
-| `<PRASANN>` | `<frontend>` | `@<...>` |
-| `<KOMAL>` | `<backend>` | `@<...>` |
-| `<HONNESHA>` | `<database>` | `@<...>` |
-| `<ARJUN>` | `<AIML>` | `@<...>` |
+| `<PRASANN>` | `<frontend>` | `@<prasann-g>` |
+| `<KOMAL>` | `<backend>` | `@<NULL>` |
+| `<HONNESHA>` | `<database>` | `@<honnesha-bit>` |
+| `<ARJUN>` | `<AIML>` | `@<arjun-jain>` |
 
 ## License
 
