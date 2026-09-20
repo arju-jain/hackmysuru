@@ -32,12 +32,12 @@
 | Document | What it covers |
 |---|---|
 | [README.md](./README.md) | Problem, users, solution overview|
-| [ai.md](./ai.md) | AI tools used in development and AI/ML inside the product |
-| [docs/architecture.md](./docs/architecture.md) | Diagram, components, data model, APIs, tech stack |
-| [docs/constraints.md](./docs/constraints.md) | How we handle the five hard constraints |
-| [docs/setup.md](./docs/setup.md) | Local setup, seed data |
-| [docs/limitations.md](./docs/limitations.md) | Known gaps, edge cases, scaling roadmap |
-| [resource-templates/](./resource-templates/) | Templates & guides for the video, decision log, and presentation |
+| [ai.md](/ai.md) | AI tools used in development and AI/ML inside the product |
+| [docs/architecture.md](/architecture.md) | Diagram, components, data model, APIs, tech stack |
+| [docs/constraints.md](/constraints.md) | How we handle the five hard constraints |
+| [docs/setup.md](/setup.md) | Local setup, seed data |
+| [docs/limitations.md](/limitations.md) | Known gaps, edge cases, scaling roadmap |
+| [resource-templates/](/resource-templates/) | Templates & guides for the video, decision log, and presentation |
 
 ---
 
